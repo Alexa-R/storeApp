@@ -18,9 +18,7 @@
 ##
 ## Скриншоты успешного выполнения:
 
-![Альтернативный текст](/StoreApp/images/screen1.bmp)
-![Альтернативный текст](/StoreApp/images/screen2.bmp)
-![Альтернативный текст](/StoreApp/images/screen3.bmp)
-![Альтернативный текст](/StoreApp/images/screen4.bmp)
-![Альтернативный текст](/StoreApp/images/screen5.bmp)
-![Альтернативный текст](/StoreApp/images/screen6.bmp)
+![ ](/StoreApp/images/screen1.png)
+![ ](/StoreApp/images/screen2.png)
+![ ](/StoreApp/images/screen3.png)
+![ ](/StoreApp/images/screen4.png)
