@@ -9,17 +9,18 @@
 
 ##
 ## Основные классы/пакеты:
- * [Runner.cs](StoreApp/StoreApp/runner/Runner.cs) - происходит вход в приложение и чтение;
- * [model](src/goodsEntity) - пакет, содержащий классы, создающие сущность Товара;
- * [repository](src/goodsList) - пакет, в котором создается список товаров;
- * [service](src/goodsAction) - пакет, содержащий классы с методами, которые реализуют основной функционал данного приложения.
+ * [Runner.cs](/StoreApp/runner/Runner.cs) - происходит вход в приложение и чтение;
+ * [model](/StoreApp/model) - пакет, содержащий классы, создающие сущность Товара;
+ * [repository](/StoreApp/repository) - пакет, в котором создается сущност Списка товаров;
+ * [service](/StoreApp/service) - пакет, содержащий классы с методами, которые реализуют основной функционал данного приложения.
+ * [shop.json](/StoreApp/shop.json) - файл, содержащий товары.
 
 ##
 ## Скриншоты успешного выполнения:
 
-![Альтернативный текст](images/screen1.bmp)
-![Альтернативный текст](images/screen2.bmp)
-![Альтернативный текст](images/screen3.bmp)
-![Альтернативный текст](images/screen4.bmp)
-![Альтернативный текст](images/screen5.bmp)
-![Альтернативный текст](images/screen6.bmp)
+![Альтернативный текст](/StoreApp/images/screen1.bmp)
+![Альтернативный текст](/StoreApp/images/screen2.bmp)
+![Альтернативный текст](/StoreApp/images/screen3.bmp)
+![Альтернативный текст](/StoreApp/images/screen4.bmp)
+![Альтернативный текст](/StoreApp/images/screen5.bmp)
+![Альтернативный текст](/StoreApp/images/screen6.bmp)
